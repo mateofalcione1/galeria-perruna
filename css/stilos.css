@@ -1,0 +1,26 @@
+.nav-link {
+  color: #8011f2;
+}
+
+.nav-brand {
+  color: #8011f2;
+}
+
+.dropdown-item {
+  color: #8011f2;
+}
+
+.bg-azul {
+  background-color: #0e153a;
+  color: white;
+}
+
+.btn-azul:hover {
+  background-color: white;
+  color: #8011f2;
+  border-color: #8011f2;
+}
+
+.c-violeta {
+  color: #8011f2;
+}/*# sourceMappingURL=stilos.css.map */
